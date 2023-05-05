@@ -56,6 +56,21 @@ html {
   font-family: 'Montserrat', sans-serif;
 }
 
+/* Book Now */
+
+#booknow {
+  padding: 0 9%;
+  margin-bottom: 40px;
+}
+
+.booknow-heading {
+  text-align: center;
+  font-weight: bold;
+  font-size: 2.2rem;
+  margin-bottom: 50px;
+  color: #101F46; 
+}
+
 /* Package */
 
 #packages {
